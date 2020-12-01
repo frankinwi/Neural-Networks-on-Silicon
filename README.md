@@ -381,6 +381,8 @@ This is a collection of conference papers that interest me. The emphasis is focu
    - *Decompose convolution into multiple dense and zero kernels for sparsity savings.*
 - **Block Convolution: Towards Memory-Efficient Inference of Large-Scale CNNs on FPGA.** (CAS)
 - **moDNN: Memory Optimal DNN Training on GPUs.** (University of Notre Dame, CAS)
+- **ReRAM-based accelerator for deep learning.** (Duke University)
+- **ReCom: An efficient resistive accelerator for compressed deep neural networks.** (Shanghai Jiao Tong University)
 - HyperPower: Power and Memory-Constrained Hyper-Parameter Optimization for Neural Networks. (CMU, Google)
 
 ### 2018 DAC
@@ -750,6 +752,8 @@ This is a collection of papers on other important topics related to neural netwo
 - [A Survey of Neuromorphic Computing and Neural Networks in Hardware.](https://arxiv.org/abs/1705.06963) (Oak Ridge National Lab)
 - [A Survey of FPGA Based Neural Network Accelerator.](https://arxiv.org/abs/1712.08934) (Tsinghua)
 - [Toolflows for Mapping Convolutional Neural Networks on FPGAs: A Survey and Future Directions.](https://arxiv.org/abs/1803.05900) (Imperial College London)
+- [A Survey of Accelerator Architectures for Deep Neural Networks.](https://www.sciencedirect.com/science/article/pii/S2095809919306356) (Duke University **2020 Elsevier**)
+
 
 ### Benchmarks
 - [DAWNBench](https://dawn.cs.stanford.edu//benchmark/): An End-to-End Deep Learning Benchmark and Competition. (Stanford)
