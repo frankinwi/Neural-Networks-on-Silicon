@@ -718,6 +718,11 @@ Deep Learning Accelerators** (New York Univ., IIT Kanpur)
 - Z-PIM: An Energy-Efficient Sparsity-Aware Processing-In-Memory Architecture with Fully-Variable Weight Precision. (KAIST)
 
 ### 2020 MICRO
+- **A Programmable Approach to Neural Network Compression.** (University of Utah)
+- **Accelerating Chip Design With Machine Learning.** (NVIDIA Corporation)
+- **Circuits and Architectures for In-Memory Computing-Based Machine Learning Accelerators.** (Purdue University)
+- **ReLeQ : A Reinforcement Learning Approach for Automatic Deep Quantization of Neural Networks.** (University of California San Diego)
+- **MAESTRO: A Data-Centric Approach to Understand Reuse, Performance, and Hardware Cost of DNN Mappings.** (Georgia Tech)
 - **SuperNPU: An Extremely Fast Neural Processing Unit Using Superconducting Logic Devices.** (Kyushu University
 - **Printed Machine Learning Classifiers.** (UIUC, KIT
 - **Look-Up Table based Energy Efficient Processing in Cache Support for Neural Network Acceleration.** (PSU, Intel)
